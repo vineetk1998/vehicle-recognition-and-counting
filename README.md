@@ -1,12 +1,12 @@
 # Vehicle-Detection
 Vehicle(object) detection and counting the type of different vehicles in a video feed.
-With the evolution of artificial intelligence and, specially, machine learning, tech Automatic
+With the evolution of artificial intelligence and specially machine learning tech, automatic
 detecting and counting vehicles in unsupervised video on railway crossings is a very challenging
 problem with important practical applications such as to monitor activities for detecting the need of
 bridge and load of vehicles on bridge if need be, and then predict the traffic flow which assists in
 bridge requirement specifications. Manually reviewing the large amount of data they generate is
 often impractical.\
-We will be developing an object detection system with neural networks using the Yolo (You Only
+We will be developing an object detection system with neural networks using the YOLO (You Only
 Look Once) network architecture to detect and classify vehicle by training and evaluating the model
 using various datasets. A counting algorithm based on checking existence of same object in some
 particular area to count the detected vehicles in a video and extract conclusions on the need for the
